@@ -10,29 +10,19 @@
       </h2>
     </b-container>
 
-    <div class="bg-light">
-      <b-container id="howitworks">
+    <div class="bg-light" id="howitworks">
+      <b-container>
         <b-row>
-          <b-col sm="6">
-            <p>
-              Plat identifies your recurring bills and your income and disburses
-              the average difference daily.
-            </p>
-            <p>
-              With Plat, you know exactly how much you can spend each day to
-              stay in the green!
-            </p>
+          <b-col lg="4">
+            <p>Plat identifies your recurring bills and your income and disburses the average difference daily. </p> 
+            <p>Plat, you know exactly how much you can spend each day to stay in the green! </p>
+            <p>Behind the scenes, Plat is a debt product and simply by using the app you will build or repair your credit score! We partner with FDIC insured banks to ensure the safety and integrity of your relationship with Plat. </p>
+            <p>Plat uses the latest security techniques to ensure that your data remains private.</p>
           </b-col>
-          <b-col sm="6">
-            <p>
-              Behind the scenes, Plat is a debt product and simply by using the
-              app you will build or repair your credit score!
-            </p>
-            <p>
-              We partner with FDIC insured banks to ensure the safety and
-              integrity of your relationship with Plat. Plat uses the latest
-              security techniques to ensure that your data remains private.
-            </p>
+          <b-col lg="8">
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/TOnng8kaDbk?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
           </b-col>
         </b-row>
       </b-container>
